@@ -1,2 +1,15 @@
 # APP-SHINY-FARDL
-Source codes for ARDL, FARDL-LP, and FARDL-QP models, including empirical application, out-of-sample performance evaluation.
+
+A Shiny web application for estimating and forecasting time series using ARDL and Fuzzy ARDL (FARDL) models.
+
+The application includes:
+- ARDL and FARDL model estimation.
+- Automatic lag selection.
+- KPSS stationarity test.
+- ACF and CCF analysis.
+- Parameter estimation.
+- Model evaluation.
+- In-sample and out-of-sample forecasting.
+- Interactive visualization of results.
+
+Developed by **Sulaiman H. Jawad** and **Munaf Y. Hmood**.
